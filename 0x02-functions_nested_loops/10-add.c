@@ -1,11 +1,12 @@
 #include "main.h"
+
 /**
- * add two integers
- * @x: int type number
- * @y: int type number
- * Return: result of addition
+ * function that adds two integers and returns the result.
+ * Prototype: int add(int, int);
  */
-int add(int x, int y)
+
+int add(int a, int b)
 {
-	return (x + y);
+		return (a + b);
+
 }
