@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * Prototype: int _isdigit(int c);
- * Returns 1 if c is a digit
- * Returns 0 otherwise
+ * _isdigit - check for digits from 0 through 9
+ * @c: int type param
+ * Return: 1 if digit, else 0
  */
 
 int _isdigit(int c)
