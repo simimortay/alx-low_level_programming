@@ -1,8 +1,10 @@
 #include "main.h"
 
 /**
- * function that draws a diagonal line on the terminal
- * prints diagonal
+ * print_diagonal - printing lines in diagonal
+ * @n: input variable
+ * CyberTech
+ * Return: void
  */
 
 void print_diagonal(int n)
