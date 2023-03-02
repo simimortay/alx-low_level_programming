@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 
 /**
  * leet - encodes a string into 13337
